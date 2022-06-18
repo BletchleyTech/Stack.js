@@ -1,6 +1,6 @@
 {
   "name": "@bletchley-tech/stack",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A native JavaScript implementation of the Stack data structure",
   "main": "Stack.js",
   "repository": {
