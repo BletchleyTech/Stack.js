@@ -1,0 +1,24 @@
+{
+  "name": "@bletchley-tech/stack",
+  "version": "0.0.0",
+  "description": "A native JavaScript implementation of the Stack data structure",
+  "main": "Stack.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BletchleyTech/Stack.js.git"
+  },
+  "keywords": [
+    "stack",
+    "data structures",
+    "data",
+    "structure",
+    "ds",
+    "lifo"
+  ],
+  "author": "Bletchley Technological Solutions Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BletchleyTech/Stack.js/issues"
+  },
+  "homepage": "https://github.com/BletchleyTech/Stack.js#readme"
+}
